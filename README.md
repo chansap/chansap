@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://blog.sagipl.com/wp-content/uploads/2019/06/hire-full-stack-developers1546507474317-1.gif" />
 
-- 🔭 I’m currently working on **Supplier Poral And Invoice Collection using tools depending on JS**
+- 🔭 I’m currently working on **Supplier Portal And Invoice Collection using tools depending on JS**
 
 - 🌱 I’m currently learning **Express JS, Angular and React**
 
